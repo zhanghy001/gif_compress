@@ -25,6 +25,7 @@ public class AnimatedUtils {
         return File2byte(newFile);
     }
 
+
     /**
      * 质量压缩
      *
